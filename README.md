@@ -99,14 +99,14 @@ A
 📂 Dataset Location
 
 All collected images are stored in:
-
+```
 dataset/<label>/
-
+```
 Example:
-
+```
 dataset/A/
 dataset/B/
-
+```
 ---
 
 🧹 Dataset Preparation
