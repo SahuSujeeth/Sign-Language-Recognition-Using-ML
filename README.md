@@ -55,10 +55,11 @@ The system uses MediaPipe for hand tracking and Machine Learning (Random Forest)
 - VS Code → Development environment
 - Git & GitHub → Version control
 
----
 
-📁 Project Structure
 
+## 📁 Project Structure
+
+```
 Sign-Language-Recognition/
 │
 ├── app.py
@@ -69,14 +70,14 @@ Sign-Language-Recognition/
 ├── dataset/
 │   ├── A/
 │   ├── B/
-│   ├── ...
+│   └── ...
 │
 ├── gesture_model.pkl
 ├── label_encoder.pkl
 ├── requirements.txt
 └── README.md
+```
 
----
 
 📸 Dataset Collection
 
