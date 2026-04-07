@@ -159,8 +159,12 @@ python predict_live.py
 
 👉 Step 1: Clone repository
 
+```
+
 git clone https://github.com/SahuSujeeth/Sign-Language-Recognition-Using-ML.git
 cd Sign-Language-Recognition-Using-ML
+
+```
 
 👉 Step 2: Install dependencies
 
